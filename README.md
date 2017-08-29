@@ -1,2 +1,2 @@
 # tweezers-framework
-Tweezers backbone framework to fast bootstraping Tweezers Agent business
+Tweezers backbone framework for fast bootstraping Tweezers Agent business
